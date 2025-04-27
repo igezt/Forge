@@ -1,4 +1,4 @@
-import { Home, IdCard } from "lucide-react";
+import { Home, IdCard, KanbanIcon, SpaceIcon } from "lucide-react";
 
 import {
   Sidebar,
@@ -15,13 +15,13 @@ import {
 const items = [
   {
     title: "Home",
-    url: "",
+    url: "/",
     icon: Home,
   },
   {
-    title: "Flashcards",
-    url: "cards",
-    icon: IdCard,
+    title: "Spaces",
+    url: "spaces",
+    icon: KanbanIcon,
   },
 ];
 
