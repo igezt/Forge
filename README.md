@@ -1,2 +1,2 @@
 # Forge
-A note-taking/flash card application
+A real-time text-editor application built with React and Go
